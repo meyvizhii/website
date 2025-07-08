@@ -12,8 +12,8 @@ Passionate about science outreach, I also help coordinate talks and workshops as
 
 I am always open to hearing about cool science, books ([A Man Called Ove](https://www.goodreads.com/book/show/18774964-a-man-called-ove) is a good read) and food+restaurant reccomendations([Masala Dosa](https://centraltiffinroom.com/) and [Napoli](https://www.santaluciaglasgow.com/)).
 
-- [Reseaech](/research)
-- [Projects](/outreach)
-- [Contact](/resources)
+- [Research](/research)
+- [Outreach](/outreach)
+- [Resources](/resources)
 
 ------
