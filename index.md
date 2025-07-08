@@ -4,7 +4,12 @@ title: Home
 ---
 
 
-Hello! I'm Meyvizhi - a first-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/). With a focus on disease risk mapping, I am working with spatial and spatio-temporal models at UoG to help answer important questions on health outcome inequalities. With previous experience in [infectious disease modelling](https://sites.google.com/math.iith.ac.in/sayanteejana/team-members), I now work on chronic diseases risks. My undergrad was a BSc Statistics and Mathematics where I was able to explore both theory and applications.
+Hello! I'm Meyvizhi (Mey) - a first-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/).
+
+
+I am supervised jointly by [Dr. Craig Anderson](https://sites.google.com/view/craiganderson/home), [Dr. Vanessa McNealis](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vanessamcnealis/) and [Dr. Daniela Castro-Camilo).
+
+With a focus on disease risk mapping, I am working on spatial models at UoG to help answer important questions on health outcome inequalities. With previous experience in [infectious disease modelling](https://sites.google.com/math.iith.ac.in/sayanteejana/team-members), I now work on chronic diseases risks. Previous academic experience is a Bachelors in Statistics and Mathematics, where I was able to explore both theory and applications.
 
 Passionate about science outreach, I also help coordinate talks and workshops as a co-organizer of the [R-Ladies Bangalore](https://www.meetup.com/rladies-bangalore/?msockid=249ea3195d2e6f811d22b60a5c546e13) chapter. Caricature-ising technical research into digestible cartoons is another way I attempt to engage with science [outreach](\_pages\portfolio.html). More information on my backkground can be found in my [CV](\files\Meyvizhi_CV.pdf).
 
