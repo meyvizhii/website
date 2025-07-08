@@ -43,8 +43,8 @@ Markov chains & MCMC
  - Cressie's book on [Statistics for Spatial Data](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119115151?msockid=249ea3195d2e6f811d22b60a5c546e13)[C]
  - Paul Moraga's book found online [here](https://www.paulamoraga.com/book-spatial/)
 
-
+_______
 Credits-
----
+
    <sup>[C]- Dr Craig Anderson, [V]- Dr Vanessa McNealis ,[M]- Dr Manjunath Krishnapur<sup>
 
