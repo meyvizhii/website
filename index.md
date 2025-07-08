@@ -16,7 +16,7 @@ I am always open to hearing about cool science, books ([A Man Called Ove](https:
 </div>
 
 <div>
-  <img src="/bgpic.jpg" class="round-pic" style="width: 150px;">
+  <img src="/20250420_110948.jpg" class="round-pic" style="width: 150px;">
 </div>
 
 ------
@@ -33,8 +33,6 @@ Email- 3019046s@student.gla.ac.uk
 <div style="flex-shrink: 0;">
 
 <img src="/mey.jpg" alt="Profile picture" width="130" style="border-radius: 50%;">
-
-
 </div>
 
 </div>
