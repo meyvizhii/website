@@ -5,35 +5,71 @@
   <title>{{ page.title }} tab</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
+
+
+<style>
+    :root {
+      color-scheme: dark;
+      --bg: #121212;
+      --text: #e0e0e0;
+      --primary: #90caf9;     /* Light blue */
+      --accent: #f48fb1;      /* Pink accent */
+      --nav-bg: #1f1f1f;
+      --footer-bg: #1c1c1c;
+      --card: #1e1e1e;
+      --border: #333;
+    }
+
     body {
       font-family: 'Segoe UI', sans-serif;
-      max-width: 700px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background: #f9f9f9;
-      color: #333333;
+      background-color: var(--bg);
+      color: var(--text);
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      line-height: 1.7;
     }
+
     nav {
-      margin-bottom: 30px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #ccc;
+      background: var(--nav-bg);
+      border-bottom: 2px solid var(--primary);
+      padding: 1rem 0;
+      margin-bottom: 2rem;
+      text-align: center;
     }
+
     nav a {
-      margin-right: 15px;
+      color: var(--primary);
       text-decoration: none;
-      color: #6b8e23;
-      font-weight: bold;
+      margin: 0 15px;
+      font-weight: 600;
     }
+
     nav a:hover {
-      text-decoration: underline;
+      color: var(--accent);
     }
+
+    h1, h2, h3 {
+      color: var(--primary);
+    }
+
     footer {
-      margin-top: 50px;
-      font-size: 0.9em;
-      color: #666;
-      border-top: 1px solid #ccc;
-      padding-top: 10px;
+      margin-top: 3rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      font-size: 0.9rem;
+      color: #888;
+      text-align: center;
+      background-color: var(--footer-bg);
     }
+
+    img.round-pic {
+      border-radius: 50%;
+      width: 80px;
+    }
+
+
+
   </style>
 </head>
 <body>
