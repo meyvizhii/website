@@ -7,7 +7,7 @@ title: Home
 Hello! I'm Meyvizhi (Mey) - a first-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/).
 
 
-I am supervised jointly by [Dr. Craig Anderson](https://sites.google.com/view/craiganderson/home), [Dr. Vanessa McNealis](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vanessamcnealis/) and [Dr. Daniela Castro-Camilo).
+I am supervised jointly by [Dr. Craig Anderson](https://sites.google.com/view/craiganderson/home), [Dr. Vanessa McNealis](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vanessamcnealis/) and [Dr. Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/).
 
 With a focus on disease risk mapping, I am working on spatial models at UoG to help answer important questions on health outcome inequalities. With previous experience in [infectious disease modelling](https://sites.google.com/math.iith.ac.in/sayanteejana/team-members), I now work on chronic diseases risks. Previous academic experience is a Bachelors in Statistics and Mathematics, where I was able to explore both theory and applications.
 
