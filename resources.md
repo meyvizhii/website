@@ -8,17 +8,15 @@ title: Resources
 Some useful materials gathered from conversations, internships and websurfing.
 
 
-Credits where they are due (to thest of my memory)!
+Credits where they are due (to the best of my memory)!
 
-<i>[C]- Dr Craig Anderson, 
 
-[V]- Dr Vanessa McNealis, 
-
-[M]- Dr Manjunath Krishnapur, IISc<i>
+- [C]- Dr Craig Anderson
+- [V]- Dr Vanessa McNealis
+- [M]- Dr Manjunath Krishnapur<i>
 
 Markov chains & MCMC  
 ---
-(references from interning under Dr Manjunath)
 - Metropolis's paper describing the history of [MCMC](https://arxiv.org/pdf/0808.2902)
 - Diaconis's [paper](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) [M]
 - MIT [OCW](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/lecture-16-markov-chains-i/) [M]
