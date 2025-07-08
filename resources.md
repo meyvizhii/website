@@ -31,7 +31,7 @@ Textbooks
 ---
 
 *Markov chains & MCMC*
-- Metropolis's paper describing the history of [MCMC](https://arxiv.org/pdf/0808.2902)
+- A brief history of [MCMC](https://arxiv.org/pdf/0808.2902)
 - Diaconis's [paper](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) [M]
 - MIT [OCW](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/lecture-16-markov-chains-i/) 
 - Dootika's gentle introduction to [MCMC](https://www.bing.com/videos/riverview/relatedvideo?q=into+to+mcmc+dootika+vats&refig=1ebe8e00ebf64e8980ff5df3799c9e4f&pc=DCTS&ru=/search?q=into+to+mcmc+dootika+vats&form=ANNH01&refig=1ebe8e00ebf64e8980ff5df3799c9e4f&pc=DCTS&mmscn=vwrc&mid=CEAFE31F568A34138F63CEAFE31F568A34138F63&FORM=WRVORC&ntb=1&msockid=3bb83cad5bca11f0bde5f028d1b2df87)
