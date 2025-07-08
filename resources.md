@@ -29,6 +29,7 @@ Cool Websites
   
 Markov chains & MCMC  
 ---
+
 - Metropolis's paper describing the history of [MCMC](https://arxiv.org/pdf/0808.2902)
 - Diaconis's [paper](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) [M]
 - MIT [OCW](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/resources/lecture-16-markov-chains-i/) 
@@ -38,6 +39,7 @@ Markov chains & MCMC
 
  Spatial Statistics
  ---
+ 
  - Cressie's book on [Statistics for Spatial Data](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119115151?msockid=249ea3195d2e6f811d22b60a5c546e13)[C]
  - Paul Moraga's book found online [here](https://www.paulamoraga.com/book-spatial/)
 
