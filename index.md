@@ -13,24 +13,19 @@ Hello! I am a first-year PhD candidate in the School of Mathematics and Statisti
 Passionate about science outreach, I also help coordinate talks and workshops as a co-organizer of the [R-Ladies Bangalore](https://www.meetup.com/rladies-bangalore/?msockid=249ea3195d2e6f811d22b60a5c546e13) chapter. Caricature-ising technical research into digestible cartoons is another way I attempt to engage with science [outreach](\_pages\portfolio.html). More information on my backkground can be found in my [CV](\files\Meyvizhi_CV.pdf).
 
 I am always open to hearing about cool science, books ([A Man Called Ove](https://www.goodreads.com/book/show/18774964-a-man-called-ove) is a good read) and food+restaurant reccomendations([Masala Dosas](https://centraltiffinroom.com/)).
+
 </div>
 
 <div>
-  <img src="/20250420_110948.jpg" class="round-pic" style="width: 150px;">
+  <img src="/20250420_110948.jpg" style="width: 350px;">
 </div>
 
-------
-
-
-<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 3rem; gap: 1rem; flex-wrap: wrap-reverse;">
-
-<div style="flex: 1; min-width: 200px;">
 
 Email- 3019046s@student.gla.ac.uk 
 
 </div>
 
-<div style="flex-shrink: 0;">
+<div>
 
 <img src="/mey.jpg" alt="Profile picture" width="130" style="border-radius: 50%;">
 </div>
