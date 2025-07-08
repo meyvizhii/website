@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }} - Meyvizhii's Site</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    nav {
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+    }
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #4CAF50;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #666;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/about' | relative_url }}">About</a>
+    <a href="{{ '/projects' | relative_url }}">Projects</a>
+    <a href="{{ '/contact' | relative_url }}">Contact</a>
+  </nav>
+
+  {{ content }}
+
+  <footer>
+    &copy; {{ "now" | date: "%Y" }} Meyvizhii
+  </footer>
+</body>
+</html>
