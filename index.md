@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
----
+<img src="/assets/mey.jpg" alt="Profile picture" width="80" style="border-radius: 50%; margin-bottom: 1rem;">
+
 
 Hello! I am a first-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/). With a focus on disease risk mapping, I am working with spatial and spatio-temporal models at UoG to help answer important questions on health outcome inequalities. With previous experience in [infectious disease modelling](https://sites.google.com/math.iith.ac.in/sayanteejana/team-members), I now work on chronic diseases risks. My undergrad was a BSc Statistics and Mathematics where I was able to explore both theory and applications.
 
