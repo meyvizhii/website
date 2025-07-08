@@ -5,7 +5,7 @@ title: Outreach
 
 # Outreach
 
-I like doodling to escape fixing bugs in my code. Some of these doodles are based on science to explain(read as excuse) the time I spend on them.
+I like doodling to escape fixing bugs in my code. Some of these doodles are based on science to explain away the time I spend on them.
 
 ---
 Glasgow PG Seminars 2024-2025
@@ -23,10 +23,3 @@ Designed a logo for the lovely community at [Fisher's Fishes](https://fishersfis
 
 [!fig5](assets/5)
 
-Sketches
----
-
-I also draw the places and institutes I have been lucky to visit as a student.
-
-[!fig6](assets/6)
-[!fig1](assets/7)
