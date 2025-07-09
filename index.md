@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-Hello! I'm **Meyvizhi**- a 2nd-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/). I am jointly supervised by [Dr. Craig Anderson](https://sites.google.com/view/craiganderson/home), [Dr. Vanessa McNealis](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vanessamcnealis/) and [Dr. Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/).
+Hello! I'm **Meyvizhi**- a 1st-year PhD candidate in the School of Mathematics and Statistics, at [UoG](https://www.gla.ac.uk/schools/mathematicsstatistics/). I am jointly supervised by [Dr. Craig Anderson](https://sites.google.com/view/craiganderson/home), [Dr. Vanessa McNealis](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vanessamcnealis/) and [Dr. Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/).
 
 With a focus on disease risk mapping, I am working on spatial models to help answer important questions on health outcome inequalities. With [previous experience](https://sites.google.com/math.iith.ac.in/sayanteejana/team-members) in infectious disease modelling, I now work on chronic diseases risks. Previous academic experience is a Bachelors in Statistics and Mathematics, which allowed me to explore both theory and applications.
 
