@@ -7,10 +7,10 @@ title: Outreach
 
 I like doodling to escape fixing bugs in my code. Some of these doodles are based on science to explain away the time I spend on them.
 
----
+--
 Glasgow PG Seminars 2024-2025
 ---
-As PhD students here, we took an oath to always talk about math. Especially for the important cause of having fun. The [Glasgow PG Seminars](https://sites.google.com/view/pgseminar/home) has been the home to one such weekly set of talks. Some drawings from my first term attending them can be [found here](https://sites.google.com/view/pgseminar/art-work). The next term's artworks were made into a whimical comic panel/book as [linked here](\pg_seminars_may2025.pdf).
+As PhD students here, we took an oath to always talk about math. Especially for the important cause of having fun. The [Glasgow PG Seminars](https://sites.google.com/view/pgseminar/home) has been the home to one such weekly set of talks. Some drawings from my first term attending them can be [found here](https://sites.google.com/view/pgseminar/art-work). The next term's artworks were made into a whimsical comic panel/book as [linked here](\pg_seminars_may2025.pdf).
 
 
 
